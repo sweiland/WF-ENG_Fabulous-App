@@ -7,7 +7,7 @@
         <Compile Include="TicTacToe.fs" />
     </ItemGroup>
     <ItemGroup>
-        <PackageReference Include="FSharp.Core" Version="4.5.4" />
+        <PackageReference Include="FSharp.Core" Version="4.7.0" />
 		<PackageReference Include="Xamarin.Essentials" Version="0.6.0-preview" />
 		<PackageReference Include="Fabulous.Core" Version="0.27.1" />
 		<PackageReference Include="Fabulous.CustomControls" Version="0.27.1" />
